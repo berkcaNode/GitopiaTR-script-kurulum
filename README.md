@@ -1,0 +1,1 @@
+# GitopiaTR-script-kurulum
